@@ -1,4 +1,4 @@
-# D#.# - Title
+# RO-Crate Schema Plus - White Paper
 
 Short description of deliverable
 
