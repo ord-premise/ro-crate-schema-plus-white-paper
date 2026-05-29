@@ -1,22 +1,17 @@
-# RO-Crate Schema Plus - White Paper
+# D5.6 - Key white papers, scientific publications and documentation on the results of the whole project
 
-The RO-Crate Schema Plus white paper is maintained by members of the PREMISE project (ETHz) at the GitHub researchobjectschema organization repository [here](https://github.com/researchobjectschema/ro-crate-interoperability-profile/blob/main/whitepaper.md).
+### White papers
 
-## Authors
+- [Journey to ontologize metadata](https://github.com/ord-premise/interoperability-guidelines/blob/main/journey-to-ontologize-metadata.md)
+- [Specifications for metadata requirements to enable automated publishing](https://github.com/ord-premise/specs-for-automated-publishing/blob/main/specifications.md)
+- [Design recommendations for user interfaces to interact with digital twins](https://github.com/ord-premise/digital-twins-interface-design/blob/main/design-recommendations.md)
+- [Recommendations for enabling automated experimentation in battery assembly and testing](https://github.com/ord-premise/recommendations-for-automated-experimentation/blob/main/recommendations.md)
+- [Technical Specification: Authoring Semantically-Enriched Object-Oriented Schemas for Common Materials Science Workflows](https://github.com/ord-premise/technical-specs-for-common-workflows/blob/main/technical_specifications.md)
+- [RO-Crate Schema Plus](https://github.com/researchobjectschema/ro-crate-interoperability-profile/blob/main/whitepaper.md)
 
-- Juan Fuentes (ETHz)
-- Andreas Meier (ETHz)
+### Publications
 
-## Goal
-
-The white paper documents the motivation, specification, and implementation considerations for RO-Crate Schema Plus, an extension of RO-Crate developed within PREMISE to support the exchange of data, metadata, and their schema definitions in a single interoperable package.
-
-The white paper explains how RO-Crate Schema Plus addresses limitations of plain JSON-LD and custom RO-Crate profiles by embedding machine-actionable schema information directly in `ro-crate-metadata.json`. It outlines the proposed specification, discusses implementation strategies and tooling needs, and identifies remaining integration considerations such as schema interpretation, ontology equivalences, and system-specific import behavior.
-
-## External links
-
-- [RO-Crate Schema Plus - White Paper](https://github.com/researchobjectschema/ro-crate-interoperability-profile/blob/main/whitepaper.md)
-- [RO-Crate](https://www.researchobject.org/ro-crate/)
+For a full list of publications authored under the PREMISE project, please refer to the [outreach page](https://ord-premise.org/outreach/) on the PREMISE website.
 
 ## Acknowledgements
 
