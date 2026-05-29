@@ -13,6 +13,11 @@
 
 For a full list of publications authored under the PREMISE project, please refer to the [outreach page](https://ord-premise.org/outreach/) on the PREMISE website.
 
+### In development
+
+- A review paper on the full scope of the work of the PREMISE project
+- A review paper on the current and ongoing efforts of the MADICES community
+
 ## Acknowledgements
 
 The [PREMISE](https://ord-premise.org/) project is supported by the [Open Research Data Program](https://ethrat.ch/en/eth-domain/open-research-data/) of the ETH Board.
